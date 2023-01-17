@@ -1,3 +1,9 @@
+![react-posts](https://user-images.githubusercontent.com/70330757/213018889-70013bc6-0f88-4523-8308-f434b967a93f.png)
+
+Install dependencies
+
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
