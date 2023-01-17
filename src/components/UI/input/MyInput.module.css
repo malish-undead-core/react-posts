@@ -1,0 +1,11 @@
+.myInput {
+    width: 100%;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border: 2px solid teal;
+    border-radius: 10px;
+}
+
+.myInput:hover {
+    border: 2px solid rgb(0, 255, 255);
+}
